@@ -3,9 +3,12 @@ models
 onnx_model/
 *.onnx
 data
+temp_auto_push.bat
 *.db
 __pycache__
 *.pyc
 *.pyo
 *.pyd
 *.pdb
+.gitignore
+branch_structure.json
